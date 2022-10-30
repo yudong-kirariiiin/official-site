@@ -512,6 +512,13 @@ section h2 span {
 }
 
 /*** customize ***/
+.news__inner {
+  display: flex;
+  flex-wrap: wrap;
+}
+.news__inner dt {
+  margin-right: 20px;
+}
 .livestream__iframe {
   margin-top: 15px;
   display: flex;
