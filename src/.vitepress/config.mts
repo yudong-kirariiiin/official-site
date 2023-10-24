@@ -7,6 +7,10 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/official-site/favicon.ico' }],
     [
+      'meta',
+      { property: 'og:image', content: '/official-site/ogp.png' },
+    ],
+    [
       'script',
       { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-D6ETTZMXLQ' }
     ],
