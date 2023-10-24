@@ -69,5 +69,8 @@ export default defineConfig({
     footer: {
       copyright: 'Copyright(c) 2022 yudong_kirariiiin. All Rights Reserved.'
     }
+  },
+  sitemap: {
+    hostname: 'https://yudong-kirariiiin.github.io/official-site/'
   }
 })
