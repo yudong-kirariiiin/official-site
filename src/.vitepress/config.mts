@@ -8,7 +8,7 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/official-site/favicon.ico' }],
     [
       'meta',
-      { property: 'og:image', content: '/official-site/ogp.png' },
+      { property: 'og:image', content: 'https://yudong-kirariiiin.github.io/official-site/ogp.png' },
     ],
     [
       'script',
