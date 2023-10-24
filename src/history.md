@@ -3,7 +3,7 @@ prev: false
 next: false
 ---
 
-# ![活動年表](./public/tit_history_01.png)
+# ![活動年表](/tit_history_01.png)
 
 ## 2022年📅
 

@@ -3,7 +3,7 @@ prev: false
 next: false
 ---
 
-# ![プロフィール](./public/tit_profile_01.png)
+# ![プロフィール](/tit_profile_01.png)
 
 ## 配信始めたきっかけ📝
 

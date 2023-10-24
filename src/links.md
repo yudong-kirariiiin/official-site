@@ -3,7 +3,7 @@ prev: false
 next: false
 ---
 
-# ![リンク集](./public/tit_links_01.png)
+# ![リンク集](/tit_links_01.png)
 
 ## 🎙️ ツイキャス
 僕のメインフィールド、うるさく喋ってるので遊びに来てね！  

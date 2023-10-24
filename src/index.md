@@ -30,7 +30,7 @@ features:
     link: /start
   - title: プロフィール
     icon: 💫
-    details: 雑談を知られざる秘密
+    details: 雑談王の知られざる秘密
     link: /profile
   - title: 活動年表
     icon: 🤧

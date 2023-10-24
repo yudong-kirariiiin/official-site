@@ -8,7 +8,23 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/official-site/favicon.ico' }],
     [
       'meta',
+      { property: 'og:title', content: 'ユドン🐸 - 配信者' },
+    ],
+    [
+      'meta',
+      { property: 'og:description', content: 'ツイキャス・YouTubeで活動しているユドンです！雑談配信と歌い手とゲーム実況もしています！' },
+    ],
+    [
+      'meta',
       { property: 'og:image', content: 'https://yudong-kirariiiin.github.io/official-site/ogp.png' },
+    ],
+    [
+      'meta',
+      { name: 'twitter:card', content: 'summary_large_image' },
+    ],
+    [
+      'meta',
+      { name: 'twitter:creator', content: '@yudong_kirarin' },
     ],
     [
       'script',
