@@ -5,6 +5,14 @@ next: false
 
 # ![リンク集](/tit_links_01.png)
 
+## 🎥 YouTube
+ゲーム実況や歌ってみた、配信切り抜きをあげてます！  
+高評価・チャンネル登録をよろしくお願いします！
+
+https://www.youtube.com/@yudong_kirarin
+
+<iframe width="100%" height="auto" style="aspect-ratio:16/9;" src="https://www.youtube.com/embed/NGWkmuJdews?si=SUzyf72Bgsx5Mzdt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 🎙️ ツイキャス
 僕のメインフィールド、うるさく喋ってるので遊びに来てね！  
 サポート・通知登録よろしくお願いします！
@@ -12,14 +20,6 @@ next: false
 https://twitcasting.tv/yudong_kirarin
 
 <iframe src="https://twitcasting.tv/yudong_kirarin/embeddedplayer/live?auto_play=false&default_mute=true" width="100%" height="auto" style="aspect-ratio:16/9;" allowfullscreen></iframe>
-
-## 🎥 YouTube
-ゲーム実況や歌ってみた、配信切り抜きをあげてます！  
-高評価・チャンネル登録をよろしくお願いします！
-
-https://www.youtube.com/@yudong_kirarin
-
-<iframe src="https://www.youtube.com/embed/0DSNf0_OSUA?si=cC1RDF_qhhjhCRfJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen width="100%" height="auto" style="aspect-ratio:16/9;"></iframe>
 
 ## 📱 X(旧Twitter) - メイン
 配信の告知や日常のことつぶやいてます！  

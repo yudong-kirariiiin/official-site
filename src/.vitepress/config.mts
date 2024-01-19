@@ -48,8 +48,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'ホーム', link: '/' },
-      { text: 'ツイキャス', link: 'https://twitcasting.tv/yudong_kirarin' },
       { text: 'YouTube', link: 'https://www.youtube.com/channel/UCldHuQwt88gnY-qvnkP-_xA' },
+      { text: 'ツイキャス', link: 'https://twitcasting.tv/yudong_kirarin' },
       { text: 'X(旧Twitter)', link: 'https://twitter.com/yudong_kirarin' },
       { text: 'グッズショップ', link: 'https://yudong-kirarin.booth.pm/' },
       { 
